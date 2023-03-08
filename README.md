@@ -19,7 +19,7 @@ Hey, scholars. I apologize for the abruptness of these steps, but I hope they ar
 
 6. You might get a permissions denied. Once that screen opens, click advanced on that window, it should open up a terms and conditions-type form which you will click and allow access.
 
-7. You are all set. Test out your form, enter your email and see it work out.
+7. You are all set. Test out your form, enter your email and see it work out. If you have issues, read the notes in the test.gs code.
 
 8. Tips: Chances are your email will reach the junk folder, so to mitigate against this, I did the following.
    a. I added a personalized confirmation message, informing the individual of the email to expect and that it might reach their junk folder if it doesn’t reach their mailbox in the next few minutes.
