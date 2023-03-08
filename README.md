@@ -1,6 +1,6 @@
 Hey, scholars. I apologize for the abruptness of these steps, but I hope they are helpful.
 
-The set up of this solution is simple. You want a QR code that links to your CV. If someone is interested in your CV and wants to follow up, they can enter their email, and the CV will be emailed to them. In that simple swipe, the emails of both individuals will be shared with one another. We are using Google forms, and a simple Google App script to facilitate this solution.
+The set up of this solution is simple. You want a QR code that links to your CV. If someone is interested in your CV and wants to follow up, they can enter their email, and the CV will be emailed to them automatically, upon form submission. In that simple swipe, the emails of both individuals will be shared with one another. We are using Google forms, and a simple Google App script to facilitate this solution.
 
 
 
