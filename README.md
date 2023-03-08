@@ -4,7 +4,7 @@ The set up of this solution is simple. You want a QR code that links to your CV.
 
 
 
-1. Create a google form. Give an appropriate title, opening message and such.
+1. Create a google form. Give an appropriate title, opening message and so forth.
 
 2. Under questions, you can add a JPEG. Convert your CV from PDF into JPEG (I used smallpdf.com for this) and add it here:
    a. ![image](https://user-images.githubusercontent.com/98710900/223793295-a186cc79-63fe-4d45-91f7-fa2d6fb3bb62.png)
@@ -12,7 +12,7 @@ The set up of this solution is simple. You want a QR code that links to your CV.
 3. Once this has been set up, you need to set up the code for Google App Scripts. Navigate to the Google App Scripts dashboard as such:
    a. ![image](https://user-images.githubusercontent.com/98710900/223793392-5b997899-ed33-4bc6-aaa0-1cbfbd0a5ec3.png)
 
-4. Enter the code and configure it with your details. You’ll find guiding notes in the code as comments. Then, Save.
+4. Enter the code (from code.gs) and configure it with your details. You’ll find guiding notes in the code as comments. Then, Save.
 
 5. On the side panel, go to Triggers > Create New Trigger.
    a. Choose which function to run: sendEmail (which is the name of our function)
