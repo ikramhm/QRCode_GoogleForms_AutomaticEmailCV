@@ -26,7 +26,7 @@ The set up of this solution is simple. You want a QR code that links to your CV.
 7. You are all set. Test out your form, enter your email and see it work out. If you have issues, read the notes in the test.gs code.
 
 8. Tips: Chances are your email will reach the junk folder, so to mitigate against this, I did the following.
-   a. I added a personalized confirmation message, informing the individual of the email to expect and that it might reach their junk folder if it doesn’t reach their mailbox in the next few minutes.
+   a. I added a personalized confirmation message, informing the individual of the email to expect and that it might reach their junk folder if it doesn’t reach their mailbox in the next few minutes. For steps, see here: https://support.google.com/a/users/answer/9308742?hl=en
    b. Have a good subject-line. Something not so generic, but maybe states something memorable about you and the expo name.
    c. Ensure the email isn’t so generic also. Add the name of the Expo and make reference to the conversation you had. Something as simple as: “I really enjoyed our conversation at Expo_Name, and I appreciate the opportunity to share my CV with you.”
 
