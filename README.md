@@ -4,7 +4,7 @@ The set up of this solution is simple. You want a QR code that links to your CV.
 
 
 
-1. Create a google form
+1. Create a google form. Give an appropriate title, opening message and such.
 
 2. Under questions, you can add a JPEG. Convert your CV from PDF into JPEG (I used smallpdf.com for this) and add it here:
    a. ![image](https://user-images.githubusercontent.com/98710900/223793295-a186cc79-63fe-4d45-91f7-fa2d6fb3bb62.png)
