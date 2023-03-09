@@ -4,9 +4,9 @@
 
 function sendEmail(e, test) {
   Logger.log('sendEmail function triggered');
-  var emailAddress = (test || 'enter your CV');
+  var emailAddress = (test || 'enter your email address');
   var subject = "your_subject";
-  var message = "your_email";
+  var message = "your_message";
   var file = DriveApp.getFileById("ID_number"); 
   MailApp.sendEmail({
     to: emailAddress,
